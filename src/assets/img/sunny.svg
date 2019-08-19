@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32px"
+   height="32px"
+   id="svg2840"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="StopIcon.svg"
+   inkscape:export-filename="C:\Daten\Documentation\Graphic\StopIcon.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs2842">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 16 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="32 : 16 : 1"
+       inkscape:persp3d-origin="16 : 10.666667 : 1"
+       id="perspective2848" />
+    <inkscape:perspective
+       id="perspective2858"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter18963-0"
+       x="-0.061012957"
+       width="1.1220258"
+       y="-2.1964664"
+       height="5.3929329">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.889576"
+         id="feGaussianBlur18965-9" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5710"
+       id="linearGradient3655"
+       gradientUnits="userSpaceOnUse"
+       x1="22.788"
+       y1="255.384"
+       x2="487.76401"
+       y2="255.384" />
+    <linearGradient
+       id="linearGradient5710">
+      <stop
+         style="stop-color:#d60000;stop-opacity:0.86082476;"
+         offset="0"
+         id="stop5712" />
+      <stop
+         style="stop-color:#d60000;stop-opacity:0.47843137;"
+         offset="1"
+         id="stop5714" />
+    </linearGradient>
+    <linearGradient
+       y2="255.384"
+       x2="487.76401"
+       y1="255.384"
+       x1="22.788"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2870"
+       xlink:href="#linearGradient5710"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.197802"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="732"
+     inkscape:window-height="701"
+     inkscape:window-x="276"
+     inkscape:window-y="73"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata2845">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <polygon
+       transform="matrix(0.05597054,0,0,0.05594455,1.7930676,-0.15098476)"
+       id="polygon3653"
+       points="350.82,22.788 159.732,22.788 22.788,159.732 22.788,350.82 159.732,487.98 350.82,487.98 487.764,350.82 487.764,159.732 "
+       style="fill:url(#linearGradient2870);fill-opacity:1;stroke:#373600;stroke-width:17.42469978;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none"
+       inkscape:export-filename="C:\Daten\Documentation\Graphic\StopIcon.png"
+       inkscape:export-xdpi="89.999992"
+       inkscape:export-ydpi="89.999992" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter18963-0)"
+       id="path18953"
+       sodipodi:cx="1732.25"
+       sodipodi:cy="2215.875"
+       sodipodi:rx="76.5"
+       sodipodi:ry="2.125"
+       d="m 1808.75,2215.875 a 76.5,2.125 0 1 1 -153,0 76.5,2.125 0 1 1 153,0 z"
+       transform="matrix(0.15727853,0,0,0.2072322,-256.36473,-429.75358)" />
+  </g>
+</svg>
