@@ -30,9 +30,9 @@ export class WeatherService {
   constructor(private httpClient: HttpClient) { }
 
   /**
-   * Calls the external weatherservice to to get the weather for the specified city.
+   * Calls the weatherservice from openweathermap to to get the current weather for the specified city.
    * Transforms the incoming data to ICurrentWeather.
-   * eturns an object of type Observable<ICurrentWeather>
+   * Returns an object of type Observable<ICurrentWeather>
    */
   getCurrentWeather(city: string, country: string) : Observable<ICurrentWeather>{
     return this.httpClient.get<ICurrentWeatherData>(
